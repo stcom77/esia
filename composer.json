@@ -1,0 +1,22 @@
+{
+    "name": "stcom77/esia",
+    "description": "package for esia authentification",
+    "authors": [
+        {
+            "name": "stcom77",
+            "email": "sunislands@yandex.ru"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "^5.2.*",
+        "simplesamlphp/saml2": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Stcom77\\Esia\\": "src/Stcom77/Esia"
+        }
+    },
+    "minimum-stability":"dev"
+}
