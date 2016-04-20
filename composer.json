@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Stcom77\\Esia\\": "src/Stcom77/Esia"
+            "Stcom77\\Esia\\": "src"
         }
     },
     "minimum-stability":"dev"
